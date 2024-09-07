@@ -29,7 +29,19 @@ A Simple theme variant for the <a href="https://github.com/sddm/sddm">SDDM Login
 `qt6-qt5compat` `qt6-qtdeclarative` `qt6-qtsvg` `sddm` 
 
 - [`For OpenSuse TW`]
-`qt6-qt5compat` `qt6-declarative` `qt6-svg` `sddm-qt6` 
+`qt6-qt5compat` `qt6-declarative` `qt6-svg` `sddm-qt6`
+
+1. Open terminal, and clone the repository with:
+
+   ```bash
+   git clone https://github.com/JaKooLit/simple-sddm-2.git ~/simple-sddm-2
+   ```
+
+2. Then move it as follows:
+
+   ```bash
+   sudo mv ~/simple-sddm-2 /usr/share/sddm/themes/
+   ```
 
 ## Configure
 
